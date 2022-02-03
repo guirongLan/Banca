@@ -1,0 +1,12 @@
+C:\Users\langu\source\repos\Banca_01\Banca_01\bin\Debug\Banca_01.exe.config
+C:\Users\langu\source\repos\Banca_01\Banca_01\bin\Debug\Banca_01.exe
+C:\Users\langu\source\repos\Banca_01\Banca_01\bin\Debug\Banca_01.pdb
+C:\Users\langu\source\repos\Banca_01\Banca_01\obj\Debug\Banca_01.csprojAssemblyReference.cache
+C:\Users\langu\source\repos\Banca_01\Banca_01\obj\Debug\Banca_01.Form1.resources
+C:\Users\langu\source\repos\Banca_01\Banca_01\obj\Debug\Banca_01.Properties.Resources.resources
+C:\Users\langu\source\repos\Banca_01\Banca_01\obj\Debug\Banca_01.csproj.GenerateResource.cache
+C:\Users\langu\source\repos\Banca_01\Banca_01\obj\Debug\Banca_01.csproj.CoreCompileInputs.cache
+C:\Users\langu\source\repos\Banca_01\Banca_01\obj\Debug\Banca_01.exe
+C:\Users\langu\source\repos\Banca_01\Banca_01\obj\Debug\Banca_01.pdb
+C:\Users\langu\source\repos\Banca_01\Banca_01\obj\Debug\Banca_01.Form2.resources
+C:\Users\langu\source\repos\Banca_01\Banca_01\obj\Debug\Banca_01.Form3.resources

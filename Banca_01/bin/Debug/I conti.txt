@@ -1,0 +1,3 @@
+qqq,qqq,qqq,Standard,0.00,0
+qq,qq,qq,Standard,0.00,0
+qqs,qqs,qqs,Standard,0.00,0
